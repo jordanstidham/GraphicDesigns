@@ -1,2 +1,4 @@
 # Promotional Campaigns
-Promotional materials and public outreach activitites.
+Created for: Oak Ridge Associated Universities
+
+Promotional materials and public outreach activities.
