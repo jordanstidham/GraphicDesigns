@@ -6,6 +6,7 @@ Oak Ridge Associated Universities (ORAU).
 TARGET AUDIENCE									
 
 Internal stakeholders in the Scientific Assessment and Workforce Development Unit at Oak Ridge Associated Universitites (ORAU).																		
+
 PROJECT DESCRIPTION									
 
 I am the editor of bi-monthly presentation materials that contributes to increased cohesion between multiple departments at ORAU. The mission is to communicate and highlight one of the company’s five organizational unit’s objectives, work, and departments. Through this medium, I announce events, celebrate employee accomplishments, provide key guidelines to ensure safety, security, and quality, and promote science exploration. These presentations are created using Microsoft PowerPoint, average between 8-10 minutes in length, and viewed by 700 employees, including executive management. These presentations focus on business related content and updates from 25 groups. I design the layout, generate original content, and also manage 10 contacts to keep the news as up-to-date as possible. I am responsible for the production schedule.							
