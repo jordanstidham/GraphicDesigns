@@ -5,7 +5,7 @@ Oak Ridge Associated Universities (ORAU).
 									
 TARGET AUDIENCE									
 
-Internal stakeholders in the Scientific Assessment and Workforce Development Unit at Oak Ridge Associated Universitites (ORAU).																		
+Internal stakeholders in the Scientific Assessment and Workforce Development Unit at Oak Ridge Associated Universities (ORAU).																		
 
 PROJECT DESCRIPTION									
 
