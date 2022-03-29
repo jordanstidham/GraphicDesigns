@@ -1,4 +1,4 @@
-# In-House Communications/Promotional Campaigns
+# In-House Promotional Campaigns
 CREATED FOR									
 
 Oak Ridge Associated Universities (ORAU).									
