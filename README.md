@@ -1,11 +1,11 @@
 # In-House Promotional Campaigns
 CREATED FOR									
 
-Oak Ridge Associated Universities (ORAU).									
+Oak Ridge Associated Universities (ORAU)									
 									
 TARGET AUDIENCE									
 
-Internal stakeholders in the Scientific Assessment and Workforce Development Unit at Oak Ridge Associated Universities (ORAU).																		
+Internal stakeholders in the Oak Ridge Institute for Science and Education (ORISE) STEM Workforce Development (WD) Reserch Particaption Programs (RPP).			
 
 PROJECT DESCRIPTION									
 
