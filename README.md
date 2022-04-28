@@ -5,7 +5,7 @@ Oak Ridge Associated Universities (ORAU)
 									
 TARGET AUDIENCE									
 
-Internal stakeholders in the Oak Ridge Institute for Science and Education (ORISE) STEM Workforce Development (WD) Reserch Particaption Programs (RPP).			
+Internal stakeholders in the Oak Ridge Institute for Science and Education (ORISE) STEM Workforce Development (WD) Reserch Particaption Programs (RPP). ORISE is a U.S. Department of Energy (DOE) asset managed by Oak Ridge Associated Universities (ORAU).		
 
 PROJECT DESCRIPTION									
 
